@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+.header_div{
+    background-color: darkgray;
+}
+
+#start_button{
+    width: 250px;
+    height: 60px;
+    font-size: 30px;
+}
+
+.main_div{
+    background-color:darkseagreen;
+    height: 700px;
+}
+
+.footer_div{
+    background-color: white;
+}
